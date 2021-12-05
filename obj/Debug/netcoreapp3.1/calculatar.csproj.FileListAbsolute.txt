@@ -1,0 +1,14 @@
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\bin\Debug\netcoreapp3.1\calculatar.exe
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\bin\Debug\netcoreapp3.1\calculatar.deps.json
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\bin\Debug\netcoreapp3.1\calculatar.runtimeconfig.json
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\bin\Debug\netcoreapp3.1\calculatar.runtimeconfig.dev.json
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\bin\Debug\netcoreapp3.1\calculatar.dll
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\bin\Debug\netcoreapp3.1\calculatar.pdb
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\obj\Debug\netcoreapp3.1\calculatar.csproj.AssemblyReference.cache
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\obj\Debug\netcoreapp3.1\calculatar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\obj\Debug\netcoreapp3.1\calculatar.AssemblyInfoInputs.cache
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\obj\Debug\netcoreapp3.1\calculatar.AssemblyInfo.cs
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\obj\Debug\netcoreapp3.1\calculatar.csproj.CoreCompileInputs.cache
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\obj\Debug\netcoreapp3.1\calculatar.dll
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\obj\Debug\netcoreapp3.1\calculatar.pdb
+C:\Users\vusal hasanov\source\repos\calculatar\calculatar\obj\Debug\netcoreapp3.1\calculatar.genruntimeconfig.cache
